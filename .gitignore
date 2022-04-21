@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CreditRepairUserStatusAutomation/bin/Debug/netcoreapp3.1
+/.vs/CreditRepairUserStatusAutomation/v16
+/CreditRepairUserStatusAutomation/obj
+/CreditRepairUserStatusAutomation/Drivers
